@@ -1,5 +1,5 @@
-# Luckfox-Lyra-LyraPlus-Armbian_Dietpi
-Luckfox Lyra LyraPlus Armbian (DEBIAN BOOKWORM) and Dietpi image with dual USB , USB Wifi include Firmware and Network manager
+# Luckfox-Lyra-LyraPlus-Armbian
+Luckfox Lyra LyraPlus Armbian (DEBIAN BOOKWORM or newer) with dual USB , USB Wifi include Firmware and Network manager
 
 
 install -y git wget curl gnupg2 lsb-release \
