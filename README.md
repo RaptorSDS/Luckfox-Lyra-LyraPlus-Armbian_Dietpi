@@ -32,3 +32,8 @@ _________________________________________
 _______________________________________________
 when error i2c group already exist foloow
 https://github.com/armbian/build/issues/9005
+
+
+_______________________________________________
+WSL2
+explorer.exe ..
