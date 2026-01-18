@@ -37,3 +37,15 @@ https://github.com/armbian/build/issues/9005
 _______________________________________________
 WSL2
 explorer.exe ..
+
+
+
+_______________________________________________
+_________________________________________________
+USB-C y adpater (OTG) maybe only 2.0 works
+
+working 
+https://www.amazon.de/dp/B0DLNVZ7L5
+
+not working
+https://www.amazon.de/dp/B0FKGFQC9H
